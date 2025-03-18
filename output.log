@@ -1,0 +1,62 @@
+nohup: ignoring input
+
+> scene-editor-app@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.1.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://172.31.87.30:3000
+
+ ✓ Starting...
+ ✓ Ready in 1824ms
+ ○ Compiling / ...
+ ✓ Compiled / in 7.8s
+ GET / 200 in 8451ms
+ GET /apple-touch-icon-precomposed.png 404 in 351ms
+ GET /apple-touch-icon.png 404 in 126ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 780ms
+ GET /favicon.ico 200 in 633ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 722ms
+ GET / 200 in 42ms
+ GET / 200 in 257ms
+ GET / 200 in 95ms
+ GET / 200 in 37ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 23ms
+ GET / 200 in 40ms
+ GET / 200 in 40ms
+ GET / 200 in 44ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 18ms
+ GET /robots.txt 404 in 55ms
+ GET /sitemap.xml 404 in 55ms
+ GET / 200 in 46ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 20ms
+ GET /apple-touch-icon-precomposed.png 404 in 29ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 32ms
+ GET /favicon.ico 200 in 37ms
+ GET /apple-touch-icon.png 404 in 54ms
+ GET / 200 in 43ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 17ms
+ GET / 200 in 39ms
+ GET /apple-touch-icon-precomposed.png 404 in 29ms
+ GET /apple-touch-icon.png 404 in 37ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 16ms
+ GET / 200 in 38ms
+ GET /apple-touch-icon-precomposed.png 404 in 38ms
+ GET /apple-touch-icon.png 404 in 28ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 15ms
+ GET / 200 in 33ms
+ GET /favicon.ico 200 in 17ms
+ GET / 200 in 36ms
+ GET / 200 in 234ms
+ GET / 200 in 36ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 21ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 16ms
+ GET /robots.txt 404 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 79ms
+ GET / 200 in 36ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 21ms
+ GET / 200 in 47ms
+ GET / 200 in 34ms
+ GET / 200 in 28ms
